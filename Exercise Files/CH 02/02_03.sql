@@ -1,5 +1,5 @@
 
---- Basic Aggregation Commands
+--- Aggregation Commands
 
 select
    *
